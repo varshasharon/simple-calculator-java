@@ -84,6 +84,10 @@ public class Codechef {
 }
 
 ```
+## Output:
+
+![image](https://github.com/user-attachments/assets/672ce18e-667e-49d0-b1d4-0e3f26c1d02a)
+
 
 Executed in Codechef. 
 Streak : 3
