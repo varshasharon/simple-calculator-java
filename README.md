@@ -1,7 +1,12 @@
 # simple-calculator-java
 
+A simple calculator program in java that has 3 oprations : 
+1. Add 2 numbers
+2. Subtract 2 numbers
+3. Exit the program.
+   
 ```
-import java.util.*;
+import java.util.Scanner;
 
 public class Codechef {
 
@@ -67,11 +72,10 @@ public class Codechef {
             String result = calculatorFunction(userChoice, scanner);
             System.out.println(result);
 
-			if(result.equals("Exit the program"))
-            {
+            // Exit condition
+            if (result.equals("Exit the program")) {
                 break;
             }
-            
         }
 
         // Close scanner to prevent resource leak
