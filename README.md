@@ -96,3 +96,5 @@ Date : 20-05-2025
 
 ## Working on the next task: 
 Creating a user interface for the java code above. 
+I have no idea how to integrate a java code to a front end file. But we'll work on that.
+Deadline: 1-06-2025
